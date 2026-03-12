@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Ajay Maharia | Frontend & MERN Stack Developer',
+  title: 'Ajay Maharia | MERN Stack Developer',
   description: 'Front-End Developer specializing in React.js, JavaScript, and the MERN stack. Building responsive, real-world web applications with clean architecture and seamless user experiences.',
   generator: 'v0.app',
   icons: {

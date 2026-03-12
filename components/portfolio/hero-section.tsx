@@ -41,7 +41,7 @@ export function HeroSection() {
   }, [text, isDeleting, roleIndex]);
 
   return (
-    <section className="relative flex min-h-screen items-center overflow-hidden px-6 py-14 md:py-18">
+    <section className="relative flex max-h-screen items-center overflow-hidden px-6 py-20 md:py-14 md:mt-18">
       {/* Grid background */}
       <div className="grid-bg pointer-events-none absolute inset-0" />
 
